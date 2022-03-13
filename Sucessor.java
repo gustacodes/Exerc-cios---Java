@@ -12,8 +12,8 @@ public class Sucessor {
         Scanner sc = new Scanner(System.in);
         int numero = sc.nextInt();
 
-            System.out.printf("Antecessor: %d\n" , numero-1);
-            System.out.printf("Sucessor: %d\n", numero+1);
+        System.out.printf("Antecessor: %d\n" , numero-1);
+        System.out.printf("Sucessor: %d\n", numero+1);
         
     }
     
