@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Salario {
     public static void main(String[] args) {
 
-        System.out.println("Informe seu sakário:");
+        System.out.println("Informe seu salário:");
         Scanner sc = new Scanner(System.in);
         int salario = sc.nextInt();
 
